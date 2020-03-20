@@ -2,7 +2,7 @@
    "formatVersion" : 1,
    "tracks" : [
       {
-         "defaultTracks" : "Strain1"
+         "defaultTracks" : "strain1"
       },
       {
          "category" : "Reference sequence",

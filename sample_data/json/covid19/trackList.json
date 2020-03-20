@@ -2,6 +2,9 @@
    "formatVersion" : 1,
    "tracks" : [
       {
+         "defaultTracks" : "Strain1,Strain2,Strain3,Strain4"
+      },
+      {
          "category" : "Reference sequence",
          "chunkSize" : 20000,
          "key" : "Reference sequence",

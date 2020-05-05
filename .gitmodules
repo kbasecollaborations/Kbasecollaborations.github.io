@@ -1,0 +1,6 @@
+[submodule "LD/jbrowse-1.16.8-release/plugins/multivariantviewer"]
+	path = LD/jbrowse-1.16.8-release/plugins/multivariantviewer
+	url = https://github.com/elsiklab/multivariantviewer.git
+[submodule "LD/jbrowse-1.16.8-release/plugins/MultiVariantViewer"]
+	path = LD/jbrowse-1.16.8-release/plugins/MultiVariantViewer
+	url = https://github.com/elsiklab/multivariantviewer.git
